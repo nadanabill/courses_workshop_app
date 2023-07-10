@@ -1,16 +1,7 @@
-# courses_app
+# Simple Courses App
 
-A new Flutter project.
+## App Screens:
 
-## Getting Started
+![Screenshot_20230627_055403](https://github.com/nada2307/courses_workshop_app/assets/62355168/b0842c20-8716-4d2d-8122-02fad3220dbd)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230627_054734](https://github.com/nada2307/courses_workshop_app/assets/62355168/4aa42fe2-fbc7-4cd5-8a73-fc0402a7e041)
